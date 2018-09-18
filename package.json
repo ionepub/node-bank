@@ -1,0 +1,12 @@
+{
+  "name": "@ionepub/node-bank",
+  "version": "1.0.0",
+  "description": "Get bank name by bank card no. 根据银行卡卡号获取银行名称",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["bank", "card", "银行卡", "银行名称"],
+  "author": "ionepub",
+  "license": "MIT"
+}
