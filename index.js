@@ -1,5 +1,5 @@
 /*!
- * node-bank v1.0.0
+ * node-bank v1.0.1
  * https://github.com/ionepub/node-bank
  *
  * Licensed MIT © ionepub
