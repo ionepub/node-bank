@@ -1,7 +1,7 @@
 {
   "name": "@ionepub/node-bank",
-  "version": "1.0.0",
-  "description": "Get bank name by bank card no. 根据银行卡卡号获取银行名称",
+  "version": "1.0.1",
+  "description": "Get bank name by bank card no. 根据银行卡卡号获取银行名称，读取银行名称列表",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
